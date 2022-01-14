@@ -1,2 +1,4 @@
 Hi this is readme file 
-welcome to giyt we cann add files
+welcome to git we cann add files
+Swicthing to main branch
+
